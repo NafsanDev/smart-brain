@@ -1,2 +1,2 @@
 # smart-brain
-Recognize Images
+Recognize faces
